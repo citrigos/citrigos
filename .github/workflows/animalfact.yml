@@ -1,4 +1,4 @@
-name: Get a Kanye Quote
+name: Get an Animal Fact
 
 on:
   workflow_dispatch:
@@ -8,9 +8,9 @@ on:
 jobs:
   # Set the job key. The key is displayed as the job name
   # when a job name is not provided
-  kanye-quote:
+  animal-fact:
     # Name the Job
-    name: Get a Kanye Quote
+    name: Get an Animal Fact
     # Set the type of machine to run on
     runs-on: ubuntu-latest
     steps:
@@ -18,10 +18,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Add Fetched Quote to README
+      - name: Add Fetched Animal Fact to README
         run: |
-          quote=$(curl -s https://api.kanye.rest/ |  python -c "import sys,json; print(json.load(sys.stdin)['quote'])")
-          echo '"' ${quote} '" - Kanye West <br/> <br/>Last Updated: ' $(date -u)>> quote.txt
+          animals=("cat" "dog" "bird" "panda" "fox" "koala" "raccoon")
+          random_animal=${animals[$RANDOM % ${#animals[@]}]}
+          fact=$(curl -s https://some-random-api.com/facts/${random_animal} | python -c "import sys,json; print(json.load(sys.stdin)['fact'])")
+          echo '🐾 **Animal Fact:** ' ${fact} ' <br/> <br/>*Last Updated: ' $(TZ='America/Los_Angeles' date '+%a %b %d %H:%M PT')'*'>> quote.txt
           cat readme-template.md quote.txt > README.md
       - name: Commit and push
         run: |-
