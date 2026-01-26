@@ -3,7 +3,7 @@ name: Get an Animal Fact
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *' # Runs every 15 minutes
+    - cron: '0 */3 * * *' # Runs every 3 hours
 
 jobs:
   # Set the job key. The key is displayed as the job name
@@ -18,21 +18,21 @@ jobs:
     steps:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Add Fetched Animal Fact to README
         run: |
           animals=("cat" "dog" "bird" "panda" "fox" "koala" "raccoon")
           random_animal=${animals[$RANDOM % ${#animals[@]}]}
-          fact=$(curl -s https://some-random-api.com/facts/${random_animal} | python -c "import sys,json; print(json.load(sys.stdin)['fact'])")
-          echo '🐾 **Animal Fact:** ' ${fact} ' <br/> <br/>*Last Updated: ' $(TZ='America/Los_Angeles' date '+%a %b %d %H:%M PT')'*'>> quote.txt
+          fact=$(curl -s https://some-random-api.com/facts/${random_animal} | python3 -c "import sys,json; print(json.load(sys.stdin)['fact'])")
+          echo '🐾 **Animal Fact:** ' ${fact} ' <br/> <br/>*Last Updated: ' $(TZ='America/Los_Angeles' date '+%a %b %d %H:%M PT')'*'> quote.txt
           cat readme-template.md quote.txt > README.md
       - name: Commit and push
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git status
-          git add README.md
+          git add README.md quote.txt
           timestamp=$(date -u)
           git commit -m "Latest update: ${timestamp}" || exit 0
           git push
