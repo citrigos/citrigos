@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Because of their awesome fur, Arctic foxes can withstand temperatures as low as negative-70 degrees Celsius. That’s when the poor fellas start shivering.  <br/> <br/>*Last Updated:  Tue Jan 27 07:29 PT*
+🐾 **Animal Fact:**  No other living being other than birds have feathers. The main function is to help them fly. They also waterproof birds and protect them from UV rays and other harmful elements.[  <br/> <br/>*Last Updated:  Tue Jan 27 10:36 PT*
