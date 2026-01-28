@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Pandas are pigeon-toed; in other words, they walk with their front paws turned inward.  <br/> <br/>*Last Updated:  Wed Jan 28 10:34 PT*
+🐾 **Animal Fact:**  Foxes are generally solitary animals; unlike wolves, they hunt on their own rather than in packs  <br/> <br/>*Last Updated:  Wed Jan 28 13:27 PT*
