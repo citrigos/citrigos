@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  A pair of breeding pandas needs more than 11 square miles of land. One giant panda usually needs between 2.5 to 4 square miles of land to survive.  <br/> <br/>*Last Updated:  Thu Jan 29 07:33 PT*
+🐾 **Animal Fact:**  Foxes can survive in the wild for about three years. In captivity, some foxes can live up to ten years.  <br/> <br/>*Last Updated:  Thu Jan 29 10:41 PT*
