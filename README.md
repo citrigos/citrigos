@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Giant pandas first appeared on Earth 2-3 million years ago  <br/> <br/>*Last Updated:  Tue Feb 03 04:55 PT*
+🐾 **Animal Fact:**  Approximately 24 cat skins can make a coat.  <br/> <br/>*Last Updated:  Tue Feb 03 10:54 PT*
