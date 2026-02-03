@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The koala might look cuddly but the koala has very sharp teeth and very sharp claws.  <br/> <br/>*Last Updated:  Mon Feb 02 22:48 PT*
+🐾 **Animal Fact:**  When an infant koala – called a joey – is born, it immediately climbs up to its mother’s pouch. Blind and earless, a joey uses its strong sense of touch and smell, as well as natural instinct, to find its way.  <br/> <br/>*Last Updated:  Tue Feb 03 01:38 PT*
