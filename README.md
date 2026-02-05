@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  This may be hard to believe since dogs are such messy drinkers, but just like cats, our canine friends bend the tip of their tongue and raise liquid in a column up to their mouths.  <br/> <br/>*Last Updated:  Wed Feb 04 20:46 PT*
+🐾 **Animal Fact:**  The seagulls in the Alfred Hitchcock movie The Birds (1963) were fed a mixture of wheat and whisky so they would stand around and not fly too much.  <br/> <br/>*Last Updated:  Wed Feb 04 22:56 PT*
