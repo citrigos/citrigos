@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  A dog is as smart as a two-year old  <br/> <br/>*Last Updated:  Fri Feb 06 17:51 PT*
+🐾 **Animal Fact:**  The ostrich lays the biggest egg in the world. It measures 7" x 5" and weighs 3 pounds. However, the biggest egg for the size of the mother is laid by the kiwi and is a third of the weight of the bird. It is 5" long and can weigh as much as 1 lb. This would be the equivalent of an ostrich laying an 88 lb. (40 kg.) egg.  <br/> <br/>*Last Updated:  Fri Feb 06 20:27 PT*
