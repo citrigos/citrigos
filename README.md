@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  No other living being other than birds have feathers. The main function is to help them fly. They also waterproof birds and protect them from UV rays and other harmful elements.[  <br/> <br/>*Last Updated:  Sat Feb 07 04:42 PT*
+🐾 **Animal Fact:**  Koalas are found in the eucalyptus forests of eastern Australia. They have grey fur with a cream-coloured chest, and strong, clawed feet, perfect for living in the branches of trees!  <br/> <br/>*Last Updated:  Sat Feb 07 07:22 PT*
