@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Foxes stink, their funny ‘musky’ smell comes from scent glands at the base of their tail  <br/> <br/>*Last Updated:  Sat Feb 07 22:45 PT*
+🐾 **Animal Fact:**  Cats have over 20 muscles that control their ears.  <br/> <br/>*Last Updated:  Sun Feb 08 01:28 PT*
