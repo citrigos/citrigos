@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The eyespots of a giant panda cub are initially in the shape of a circle. As the cub grows, the circles become shaped like a teardrop.  <br/> <br/>*Last Updated:  Sat Feb 07 21:01 PT*
+🐾 **Animal Fact:**  Foxes stink, their funny ‘musky’ smell comes from scent glands at the base of their tail  <br/> <br/>*Last Updated:  Sat Feb 07 22:45 PT*
