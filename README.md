@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Cats are very soft.  <br/> <br/>*Last Updated:  Sat Feb 14 07:23 PT*
+🐾 **Animal Fact:**  Isaac Newton is credited with inventing the cat door.  <br/> <br/>*Last Updated:  Sat Feb 14 10:31 PT*
