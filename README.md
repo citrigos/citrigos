@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Giant pandas are on the brink of extinction, with just over 1,000 pandas left in the world. Scientists are hoping to increase the wild panda population to 5,000 by 2025.  <br/> <br/>*Last Updated:  Tue Feb 17 01:45 PT*
+🐾 **Animal Fact:**  The most talkative bird in the world is the African gray parrot. One parrot could say over 800 words. Most species of parrots can learn only 50.  <br/> <br/>*Last Updated:  Tue Feb 17 04:59 PT*
