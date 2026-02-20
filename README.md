@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  When an infant koala – called a joey – is born, it immediately climbs up to its mother’s pouch. Blind and earless, a joey uses its strong sense of touch and smell, as well as natural instinct, to find its way.  <br/> <br/>*Last Updated:  Fri Feb 20 01:38 PT*
+🐾 **Animal Fact:**  It is very rare to see more than one panda at a time in the wild. Giant pandas cannot afford the energy it would take to compete with one another for food, territory, and mates.  <br/> <br/>*Last Updated:  Fri Feb 20 04:54 PT*
