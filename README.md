@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  There are about 15 giant pandas in zoos outside of China. Chinese zoos display another 90 captive animals.  <br/> <br/>*Last Updated:  Fri Feb 27 07:35 PT*
+🐾 **Animal Fact:**  Scientists believe that birds evolved from theropod dinosaurs.  <br/> <br/>*Last Updated:  Fri Feb 27 10:39 PT*
