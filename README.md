@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Koalas are nocturnal marsupials famous for spending most of their lives asleep in trees. During the day they doze, tucked into forks or nooks in the trees, sleeping for up to 18 hours. This sedentary lifestyle can be attributed to the fact they have unusually small brains and survive on a diet of nutrient-poor leaves. Koalas tend to smell strongly of eucalyptus and musk. This is thought to discourage fleas and other animals from living in its fur  <br/> <br/>*Last Updated:  Fri Feb 27 13:27 PT*
+🐾 **Animal Fact:**  The bird that lays the smallest egg in the world is the bee hummingbird. Its egg is just under 0.5" x 0.25" and weighs a mere 0.02 oz.  <br/> <br/>*Last Updated:  Fri Feb 27 17:44 PT*
