@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Your dog can smell your feelings.  <br/> <br/>*Last Updated:  Sun Mar 01 22:55 PT*
+🐾 **Animal Fact:**  Coalminers often used canaries to detect poisonous levels of carbon monoxide gas. Miners knew that if the canary passed out, they were in danger, too. The phrase “Canary in a Coalmine” derives from this history.  <br/> <br/>*Last Updated:  Mon Mar 02 07:39 PT*
