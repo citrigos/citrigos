@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  A joey grows and develops in the pouch for about six months. Once strong enough, the youngster rides around on its mother’s back for a further six months, only using the pouch to feed.  <br/> <br/>*Last Updated:  Thu Mar 05 04:56 PT*
+🐾 **Animal Fact:**  Foxes have excellent hearing. Red foxes can reportedly hear a watch ticking 40 yards away!  <br/> <br/>*Last Updated:  Thu Mar 05 07:48 PT*
