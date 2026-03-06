@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  In the movie The Birds (1963), the scene where actress Tippi Hedren is attacked took a week to shoot. The birds were attached to her clothes by long nylon threads so they could not fly away.  <br/> <br/>*Last Updated:  Thu Mar 05 20:40 PT*
+🐾 **Animal Fact:**  The linear flight formations of migratory birds are called echelons, with the most common shapes being the "V" or the "J." In fact, a true V-shaped formation is less common than a J formation. Birds fly in formation a) because it saves energy and b) to facilitate orientation and communication among the birds.  <br/> <br/>*Last Updated:  Thu Mar 05 22:44 PT*
