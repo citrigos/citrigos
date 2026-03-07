@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.  <br/> <br/>*Last Updated:  Fri Mar 06 22:37 PT*
+🐾 **Animal Fact:**  When dogs kick after going to the bathroom, they are using the scent glands on their paws to further mark their territory.  <br/> <br/>*Last Updated:  Sat Mar 07 01:26 PT*
