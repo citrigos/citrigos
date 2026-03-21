@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Foxes are generally solitary animals; unlike wolves, they hunt on their own rather than in packs  <br/> <br/>*Last Updated:  Sat Mar 21 05:43 PT*
+🐾 **Animal Fact:**  A male cat is called a "Tom" and a female cat is called a "Queen."  <br/> <br/>*Last Updated:  Sat Mar 21 08:23 PT*
