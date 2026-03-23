@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The bird with the most feathers is the whistling swan, with up to 25,000 feathers. Hummingbirds, on the other hand, are so small that they have fewer than 1,000.  <br/> <br/>*Last Updated:  Mon Mar 23 11:52 PT*
+🐾 **Animal Fact:**  The koala weighs 15 to 30 pounds.  <br/> <br/>*Last Updated:  Mon Mar 23 14:34 PT*
