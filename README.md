@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  A male is called a 'dog fox' while a female is called a 'vixen'  <br/> <br/>*Last Updated:  Wed Mar 25 06:05 PT*
+🐾 **Animal Fact:**  Mother pandas in captivity give birth to twins more often than mothers in the wild do.  <br/> <br/>*Last Updated:  Wed Mar 25 09:08 PT*
