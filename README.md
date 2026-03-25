@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Cats have whiskers on the backs of their front legs, as well.  <br/> <br/>*Last Updated:  Wed Mar 25 02:52 PT*
+🐾 **Animal Fact:**  A male is called a 'dog fox' while a female is called a 'vixen'  <br/> <br/>*Last Updated:  Wed Mar 25 06:05 PT*
