@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  There are cats who have survived falls from over 32 stories (320 meters) onto concrete.  <br/> <br/>*Last Updated:  Thu Mar 26 12:02 PT*
+🐾 **Animal Fact:**  If you can’t decide on having cat or a dog, you can have a fox as a pet.  <br/> <br/>*Last Updated:  Thu Mar 26 14:29 PT*
