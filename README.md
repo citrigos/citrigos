@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Unlike the rest of the bear family, pandas do not use facial expressions to communicate. When one panda wants to threaten another, it stares at its opponent with its head down. Researchers believe a panda may do that so that its black ears will look like another pair of eyes against the white fur of its neck.  <br/> <br/>*Last Updated:  Fri Mar 27 11:53 PT*
+🐾 **Animal Fact:**  Foxes have whiskers on their legs and face, which help them to navigate  <br/> <br/>*Last Updated:  Fri Mar 27 14:32 PT*
