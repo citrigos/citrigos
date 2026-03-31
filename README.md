@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The bird with the most feathers is the whistling swan, with up to 25,000 feathers. Hummingbirds, on the other hand, are so small that they have fewer than 1,000.  <br/> <br/>*Last Updated:  Mon Mar 30 22:07 PT*
+🐾 **Animal Fact:**  Dogs have a "sixth sense."  <br/> <br/>*Last Updated:  Tue Mar 31 00:10 PT*
