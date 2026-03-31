@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The life span of giant pandas in the wild is approximately 20 years. Captive pandas may live to be 25-30 years old.  <br/> <br/>*Last Updated:  Tue Mar 31 03:04 PT*
+🐾 **Animal Fact:**  On average, a panda eats 25-30 pounds of bamboo in one day. In the spring, a panda may eat 100 pounds in a day.  <br/> <br/>*Last Updated:  Tue Mar 31 09:03 PT*
