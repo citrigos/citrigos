@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  On average, a panda eats 25-30 pounds of bamboo in one day. In the spring, a panda may eat 100 pounds in a day.  <br/> <br/>*Last Updated:  Tue Mar 31 09:03 PT*
+🐾 **Animal Fact:**  The tip of a red fox’s tail is white, whereas swift foxes have a black-tipped tail  <br/> <br/>*Last Updated:  Tue Mar 31 11:59 PT*
