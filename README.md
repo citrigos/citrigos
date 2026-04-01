@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Many Chinese philosophers believe that the universe is made from two opposing forces, the Yin and Yang. The panda is one symbol of this philosophy with its contrasting black-and-white fur. The Chinese believe that the gentle nature of the panda demonstrates how the Yin and Yang bring peace and harmony when they are balanced.  <br/> <br/>*Last Updated:  Tue Mar 31 22:22 PT*
+🐾 **Animal Fact:**  Speaking of whiskers, they have some on their legs. This helps them with their bearings, especially when it’s dark outside.  <br/> <br/>*Last Updated:  Wed Apr 01 00:17 PT*
