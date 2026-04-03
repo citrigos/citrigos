@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Many scientists believe that birds evolved from dinosaurs during the Mesozoic Era about 150 million years ago.  <br/> <br/>*Last Updated:  Fri Apr 03 05:59 PT*
+🐾 **Animal Fact:**  Hearing is the strongest of cat's senses: They can hear sounds as high as 64 kHz — compared with humans, who can hear only as high as 20 kHz.  <br/> <br/>*Last Updated:  Fri Apr 03 08:37 PT*
