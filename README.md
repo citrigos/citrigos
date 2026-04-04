@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The koala is a marsupial mammal.  <br/> <br/>*Last Updated:  Sat Apr 04 11:38 PT*
+🐾 **Animal Fact:**  A cat can jump up to six times its length.  <br/> <br/>*Last Updated:  Sat Apr 04 14:28 PT*
