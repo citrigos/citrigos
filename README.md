@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The koala is a marsupial mammal.  <br/> <br/>*Last Updated:  Fri Apr 03 21:48 PT*
+🐾 **Animal Fact:**  Forty-five percent of U.S. dogs sleep in their owner's bed.  <br/> <br/>*Last Updated:  Fri Apr 03 23:58 PT*
