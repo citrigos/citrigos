@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The Chinese once hunted giant pandas because they believed that its pelt provided magical protection against evil spirits  <br/> <br/>*Last Updated:  Sun Apr 05 02:36 PT*
+🐾 **Animal Fact:**  72% of dog owners believe their dog can detect when stormy weather is on the way.  <br/> <br/>*Last Updated:  Sun Apr 05 05:53 PT*
