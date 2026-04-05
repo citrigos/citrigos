@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Most cats don't like water because their coats do not insulate them well enough.  <br/> <br/>*Last Updated:  Sat Apr 04 19:13 PT*
+🐾 **Animal Fact:**  Gentoo Penguins are the fastest swimming birds, reaching speeds of 22 mph (36 kph). Emperor Penguins can stay under water for up to 18 minutes.  <br/> <br/>*Last Updated:  Sat Apr 04 22:10 PT*
