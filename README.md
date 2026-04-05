@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  A cat can jump up to six times its length.  <br/> <br/>*Last Updated:  Sat Apr 04 14:28 PT*
+🐾 **Animal Fact:**  Most cats don't like water because their coats do not insulate them well enough.  <br/> <br/>*Last Updated:  Sat Apr 04 19:13 PT*
