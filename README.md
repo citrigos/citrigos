@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Cuddly critters, koalas measure about 60cm to 85cm long, and weigh about 14kg.  <br/> <br/>*Last Updated:  Tue Apr 07 00:13 PT*
+🐾 **Animal Fact:**  Your dog does have a sense of time — and misses you when you're gone.  <br/> <br/>*Last Updated:  Tue Apr 07 03:05 PT*
