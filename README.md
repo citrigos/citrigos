@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The koala might look cuddly but the koala has very sharp teeth and very sharp claws.  <br/> <br/>*Last Updated:  Tue Apr 07 19:10 PT*
+🐾 **Animal Fact:**  Cuddly critters, koalas measure about 60cm to 85cm long, and weigh about 14kg.  <br/> <br/>*Last Updated:  Wed Apr 08 00:15 PT*
