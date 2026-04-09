@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Foxes can survive in the wild for about three years. In captivity, some foxes can live up to ten years.  <br/> <br/>*Last Updated:  Thu Apr 09 09:16 PT*
+🐾 **Animal Fact:**  Cats don't have sweat glands over their bodies like humans do. Instead, they sweat only through their paws.  <br/> <br/>*Last Updated:  Thu Apr 09 12:02 PT*
