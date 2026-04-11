@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Owning a cat can reduce the risk of stroke and heart attack by a third.  <br/> <br/>*Last Updated:  Fri Apr 10 21:52 PT*
+🐾 **Animal Fact:**  A group of crows is called a murder or congress. A group of owls is called a parliament, wisdom, or study. A group of flamingos is called a flamboyance.  <br/> <br/>*Last Updated:  Fri Apr 10 23:58 PT*
