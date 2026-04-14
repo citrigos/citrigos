@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The adult koala generally grows to 25 - 30 inches long.  <br/> <br/>*Last Updated:  Mon Apr 13 14:45 PT*
+🐾 **Animal Fact:**  Giant pandas do not hibernate because their bamboo diet will not allow them to build up enough fat reserves for the winter.  <br/> <br/>*Last Updated:  Mon Apr 13 19:24 PT*
