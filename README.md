@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The life span of giant pandas in the wild is approximately 20 years. Captive pandas may live to be 25-30 years old.  <br/> <br/>*Last Updated:  Wed Apr 15 06:20 PT*
+🐾 **Animal Fact:**  Falconry was developed more than 4,000 years ago in eastern and central Asia. Birds were used because they could kill animals beyond the range of a hunter’s weapon. Genghis Khan reportedly had 10,000 falconers.  <br/> <br/>*Last Updated:  Wed Apr 15 09:03 PT*
