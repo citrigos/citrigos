@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Falconry was developed more than 4,000 years ago in eastern and central Asia. Birds were used because they could kill animals beyond the range of a hunter’s weapon. Genghis Khan reportedly had 10,000 falconers.  <br/> <br/>*Last Updated:  Wed Apr 15 09:03 PT*
+🐾 **Animal Fact:**  Koalas drink milk from the mother.  <br/> <br/>*Last Updated:  Wed Apr 15 12:13 PT*
