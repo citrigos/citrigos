@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Cats make about 100 different sounds. Dogs make only about 10.  <br/> <br/>*Last Updated:  Sun Apr 19 19:31 PT*
+🐾 **Animal Fact:**  Koala’s grow up to become big eaters, shifting up to one kilogram of eucalyptus leaves in a day! They are fussy, too, and will select the most nutritious and tastiest leaves from the trees where they live.  <br/> <br/>*Last Updated:  Sun Apr 19 22:38 PT*
