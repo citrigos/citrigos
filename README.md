@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Service dogs pee and poop on command and know when they're on or off duty.  <br/> <br/>*Last Updated:  Wed Apr 22 19:28 PT*
+🐾 **Animal Fact:**  Koala’s grow up to become big eaters, shifting up to one kilogram of eucalyptus leaves in a day! They are fussy, too, and will select the most nutritious and tastiest leaves from the trees where they live.  <br/> <br/>*Last Updated:  Wed Apr 22 22:28 PT*
