@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Koala’s grow up to become big eaters, shifting up to one kilogram of eucalyptus leaves in a day! They are fussy, too, and will select the most nutritious and tastiest leaves from the trees where they live.  <br/> <br/>*Last Updated:  Wed Apr 22 22:28 PT*
+🐾 **Animal Fact:**  Some scientists believe that the giant panda is a remnant species, meaning that it is becoming extinct naturally, not just because of human activity. Other scientists believe that the panda’s problems are directly caused by humans.  <br/> <br/>*Last Updated:  Thu Apr 23 00:48 PT*
