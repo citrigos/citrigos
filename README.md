@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The ancestor of the giant panda is the Ailurarctos ("cat bear"), which is an extinct genus of the Chinese panda that lived 8 million years ago. The skull of another ancestor, Ailuropoda microta, shows that it was half the size of a modern-day giant panda. Research shows that for the past 3 million years, giant pandas have evolved as a separate linage from other bears.  <br/> <br/>*Last Updated:  Sun Apr 26 08:39 PT*
+🐾 **Animal Fact:**  They are warm-blooded.  <br/> <br/>*Last Updated:  Sun Apr 26 11:51 PT*
