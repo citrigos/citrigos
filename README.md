@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The heaviest bird in the air is the Kori Bustard, from East and South Africa. It weighs about 31 lb. (14 kg.), with the largest on recorded being 40 lb. (18 kg.). Because it is such hard work to fly, it flies only in emergencies and for only short distances.  <br/> <br/>*Last Updated:  Wed Apr 29 06:50 PT*
+🐾 **Animal Fact:**  Foxes can survive in the wild for about three years. In captivity, some foxes can live up to ten years.  <br/> <br/>*Last Updated:  Wed Apr 29 12:21 PT*
