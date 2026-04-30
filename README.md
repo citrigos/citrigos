@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Foxes have whiskers on their legs and face, which help them to navigate  <br/> <br/>*Last Updated:  Thu Apr 30 12:17 PT*
+🐾 **Animal Fact:**  Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.  <br/> <br/>*Last Updated:  Thu Apr 30 14:54 PT*
