@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The koala cub stays in the mother's pouch for 5 months.  <br/> <br/>*Last Updated:  Thu May 07 22:28 PT*
+🐾 **Animal Fact:**  Koalas do not drink much water and they get most of their moisture from these leaves. In Aborigine language, the word "koala" means "no water".  <br/> <br/>*Last Updated:  Fri May 08 00:26 PT*
