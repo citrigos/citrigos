@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The koala is a marsupial mammal.  <br/> <br/>*Last Updated:  Sat May 09 19:45 PT*
+🐾 **Animal Fact:**  The tip of a red fox’s tail is white, whereas swift foxes have a black-tipped tail  <br/> <br/>*Last Updated:  Sat May 09 23:09 PT*
