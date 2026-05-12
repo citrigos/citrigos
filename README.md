@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Owls devour their prey whole.  <br/> <br/>*Last Updated:  Mon May 11 15:05 PT*
+🐾 **Animal Fact:**  Cats are very soft.  <br/> <br/>*Last Updated:  Mon May 11 19:46 PT*
