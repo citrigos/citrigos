@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The mother has a pouch.  <br/> <br/>*Last Updated:  Sun May 17 20:29 PT*
+🐾 **Animal Fact:**  A giant panda has one of the highest bite forces of any carnivore  <br/> <br/>*Last Updated:  Mon May 18 02:58 PT*
