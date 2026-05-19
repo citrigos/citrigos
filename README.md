@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  After 1 month the cub is 1 cm. long.  <br/> <br/>*Last Updated:  Mon May 18 14:59 PT*
+🐾 **Animal Fact:**  A cat has been mayor of Talkeetna, Alaska, for 20 years. His name is Stubbs. He died in 2017.  <br/> <br/>*Last Updated:  Mon May 18 19:57 PT*
