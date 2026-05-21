@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  As per the Guinness Book of World Records, the world's smallest dog, a Yorkshire Terrier from Great Britian, weighed a teeny-tiny 4 ounces at age two.  <br/> <br/>*Last Updated:  Wed May 20 15:22 PT*
+🐾 **Animal Fact:**  Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.  <br/> <br/>*Last Updated:  Wed May 20 20:28 PT*
