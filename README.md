@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  A giant panda has one of the highest bite forces of any carnivore  <br/> <br/>*Last Updated:  Thu May 21 02:36 PT*
+🐾 **Animal Fact:**  Falconry was developed more than 4,000 years ago in eastern and central Asia. Birds were used because they could kill animals beyond the range of a hunter’s weapon. Genghis Khan reportedly had 10,000 falconers.  <br/> <br/>*Last Updated:  Thu May 21 08:18 PT*
