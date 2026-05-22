@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Black cats are bad luck in the United States, but they are good luck in the United Kingdom and Australia.  <br/> <br/>*Last Updated:  Fri May 22 10:06 PT*
+🐾 **Animal Fact:**  Dog urine can corrode metal.  <br/> <br/>*Last Updated:  Fri May 22 15:05 PT*
