@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  A dog's nose print is unique, much like a person's fingerprint.  <br/> <br/>*Last Updated:  Sat May 23 03:24 PT*
+🐾 **Animal Fact:**  From 1974-1989, half of the panda’s habitat in China’s Sichuan areas was destroyed by human activity.  <br/> <br/>*Last Updated:  Sat May 23 06:20 PT*
