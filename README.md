@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The Australian Shepherd isn't even from Australia. Its origins are tied to the Basque region of Europe.  <br/> <br/>*Last Updated:  Sun May 24 01:26 PT*
+🐾 **Animal Fact:**  The wishbone (or "merrythought" bone) is a bird’s fused collarbone. The strongest fliers have the widest angles in their wishbones. They are the only vertebrate animals to have a fused collarbone.  <br/> <br/>*Last Updated:  Sun May 24 03:28 PT*
