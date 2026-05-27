@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  Giant pandas have evolved a unique “thumb” which they use to hold bamboo stalks. This thumb is actually a modified wrist bone.  <br/> <br/>*Last Updated:  Wed May 27 08:35 PT*
+🐾 **Animal Fact:**  The Australian Shepherd is not actually from Australia—they are an American breed.  <br/> <br/>*Last Updated:  Wed May 27 15:28 PT*
