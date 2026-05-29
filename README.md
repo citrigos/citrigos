@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  It's not abnormal for dogs to eat feces.  <br/> <br/>*Last Updated:  Thu May 28 19:58 PT*
+🐾 **Animal Fact:**  The koala is very small when it's just born.  <br/> <br/>*Last Updated:  Thu May 28 23:58 PT*
