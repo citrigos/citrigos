@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  The song of a European wren is made of more than 700 different notes a minute and can be heard 1,650 feet (500 m) away.  <br/> <br/>*Last Updated:  Tue Jun 02 13:45 PT*
+🐾 **Animal Fact:**  The slowest flying bird is the American Woodcock. It can fly at just 5 mph (8 kph). When hummingbirds hover, they move at 0 mph. Additionally, hummingbirds are the only birds that can fly backwards under power, registering a negative speed.  <br/> <br/>*Last Updated:  Tue Jun 02 16:00 PT*
