@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  While it is commonly thought that the ancient Egyptians were the first to domesticate cats, the oldest known pet cat was recently found in a 9,500-year-old grave on the Mediterranean island of Cyprus. This grave predates early Egyptian art depicting cats by 4,000 years or more.  <br/> <br/>*Last Updated:  Thu Jun 04 07:54 PT*
+🐾 **Animal Fact:**  These magnificent mammals get their name form an Aboriginal term meaning, "no drink". It’s believed this is because koalas get almost all their moisture from the leaves they eat, and rarely drink water.  <br/> <br/>*Last Updated:  Thu Jun 04 10:44 PT*
