@@ -2,4 +2,4 @@
 
 This page updates with a random animal fact every 3 hours, using [Github Actions](https://github.com/features/actions) and [some-random-api.com](https://some-random-api.com/).
 
-🐾 **Animal Fact:**  These magnificent mammals get their name form an Aboriginal term meaning, "no drink". It’s believed this is because koalas get almost all their moisture from the leaves they eat, and rarely drink water.  <br/> <br/>*Last Updated:  Thu Jun 04 10:44 PT*
+🐾 **Animal Fact:**  When dogs kick after going to the bathroom, they are using the scent glands on their paws to further mark their territory.  <br/> <br/>*Last Updated:  Thu Jun 04 13:02 PT*
